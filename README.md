@@ -20,7 +20,7 @@ This site presents an informative breakdown of how AI tools have evolved and eme
 To raise awareness about the impact and applications of AI tools in today’s world — perfect for blog-style tech articles or portfolios.
 
 ## 🌐 Live Preview
-🔗 View Site : https://byaditi.github.io/Rise-of-AI-Tools-in-2024-25/
+🔗 View Site : https://snipcraft.github.io/Rise-of-AI-Tools-in-2024-25
 
 ## 📜 License
 This site is intended for personal or educational use.
